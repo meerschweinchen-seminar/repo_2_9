@@ -12,12 +12,15 @@
     "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
     "license": "MIT",
     "dependencies": {
-          "harp": "0.20.0"
+          "harp": "0.20.0",
+          "remarkable": "0.0.1"
     },
     "devDependencies": {
-          "harp": "0.20.0"
+          "harp": "0.20.0",
+          "remarkable": "0.0.1"
     },
 
+    
     "repository": {
         "type": "git",
         "url": "https://github.com/adriano-di-giovanni/node-df.git"
