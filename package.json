@@ -23,7 +23,8 @@
           "ipip": "1.1.0",
           "robot-js": "1.1.0",
           "semver": "1.0.0",
-          "bootstrap": "1.0.0"
+          "bootstrap": "1.0.0",
+          "lodash": "1.0.0"
     },
     "devDependencies": {
           "harp": "0.20.0",
@@ -37,9 +38,11 @@
           "ipip": "1.1.0",
           "robot-js": "1.1.0",
           "semver": "1.0.0",
-          "bootstrap": "1.0.0"
+          "bootstrap": "1.0.0",
+          "lodash": "1.0.0"
     },
 
+    
     "repository": {
         "type": "git",
         "url": "https://github.com/adriano-di-giovanni/node-df.git"
