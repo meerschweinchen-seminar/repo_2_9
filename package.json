@@ -21,7 +21,8 @@
           "poco": "1.1.0",
           "massif": "0.0.1-1",
           "ipip": "1.1.0",
-          "robot-js": "1.1.0"
+          "robot-js": "1.1.0",
+          "semver": "1.0.0"
     },
     "devDependencies": {
           "harp": "0.20.0",
@@ -33,10 +34,10 @@
           "poco": "1.1.0",
           "massif": "0.0.1-1",
           "ipip": "1.1.0",
-          "robot-js": "1.1.0"
+          "robot-js": "1.1.0",
+          "semver": "1.0.0"
     },
 
-    
     "repository": {
         "type": "git",
         "url": "https://github.com/adriano-di-giovanni/node-df.git"
