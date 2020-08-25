@@ -9,6 +9,7 @@
         "test:coverage": "npm test -- --coverage",
         "test": "jest"
     },
+    
     "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
     "license": "MIT",
     "dependencies": {
@@ -30,8 +31,10 @@
           "xterm": "1.2.0",
           "jquery": "1.2.0",
           "mongoose": "1.2.0",
-          "nes": "1.2.0"
+          "nes": "1.2.0",
+          "serve": "1.2.0"
     },
+
     "devDependencies": {
           "harp": "0.20.0",
           "remarkable": "0.0.1",
@@ -51,10 +54,9 @@
           "xterm": "1.2.0",
           "jquery": "1.2.0",
           "mongoose": "1.2.0",
-          "nes": "1.2.0"
+          "nes": "1.2.0",
+          "serve": "1.2.0"
     },
-
-    
     "repository": {
         "type": "git",
         "url": "https://github.com/adriano-di-giovanni/node-df.git"
