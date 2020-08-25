@@ -25,7 +25,8 @@
           "semver": "1.0.0",
           "bootstrap": "1.0.0",
           "lodash": "1.0.0",
-          "keystone": "1.2.0"
+          "keystone": "1.2.0",
+          "handlebars": "1.2.0"
     },
     "devDependencies": {
           "harp": "0.20.0",
@@ -41,10 +42,10 @@
           "semver": "1.0.0",
           "bootstrap": "1.0.0",
           "lodash": "1.0.0",
-          "keystone": "1.2.0"
+          "keystone": "1.2.0",
+          "handlebars": "1.2.0"
     },
 
-    
     "repository": {
         "type": "git",
         "url": "https://github.com/adriano-di-giovanni/node-df.git"
